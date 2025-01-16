@@ -1,5 +1,5 @@
 <h1>Voyage-Slider</h1>
-<img src="demo-vd/capture">
+<img src="demo-vd/capture/demo-cap.png">
 <p></p><strong>Description :</strong>
 <br>
 Ce projet consiste à créer un carrousel ou slider interactif mettant en valeur des destinations de voyage inspirantes. Le slider affiche des images de paysages magnifiques, des villes emblématiques et des lieux exotiques. L'utilisateur peut naviguer à travers les destinations à l'aide de boutons ou d'une navigation automatique. Chaque slide contient une image, un titre, et une courte description de la destination.</p>
